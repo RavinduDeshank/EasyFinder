@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Easy Finder</string>
+    <string name="name">Name</string>
+    <string name="mobile">Mobile Number</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="city">City</string>
+    <string name="des">Description</string>
+    <string name="logo">Add your logo</string>
+    <string name="Addlogo">CHOOSE LOGO</string>
+    <string name="photo">CHOOSE IMAGE</string>
+    <string name="post">POST AD</string>
+</resources>
